@@ -1,0 +1,110 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "ergonomics",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AverageToday",
+                    "slots": [],
+                    "samples": [
+                        "Score Today",
+                        "Today's score",
+                        "Today's status",
+                        "What's today's status",
+                        "What is my score today"
+                    ]
+                },
+                {
+                    "name": "AverageOverall",
+                    "slots": [],
+                    "samples": [
+                        "Total Score",
+                        "Overall score",
+                        "What is my overall score"
+                    ]
+                },
+                {
+                    "name": "Performance",
+                    "slots": [],
+                    "samples": [
+                        "my status",
+                        "How is my ergonomics",
+                        "Am I safe"
+                    ]
+                },
+                {
+                    "name": "AMAZON.MoreIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateSettingsIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NextIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollRightIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollLeftIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "Tips",
+                    "slots": [],
+                    "samples": [
+                        "How do I improve",
+                        "Any Pointers to improve",
+                        "Ant tips to improve",
+                        "What tips do you have for me",
+                        "Give me a tip"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
