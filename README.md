@@ -8,10 +8,10 @@ It gives a daily and overall score on 100 of how straight you're looking through
 
 ## Phrases ##
 
+Look at interaction_model.json for complete list of phrases
+
     1. "Alexa, Ergonomics"
     2. "Today's score" - for today's score
     3. "Overall score" - for overall score
     4. "Am I safe" - for how good your ergonomics are
     5. "How do I improve" - for tips to improve
-
-Look at intents.json for complete list of phrases
